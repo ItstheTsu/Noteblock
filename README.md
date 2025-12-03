@@ -18,6 +18,7 @@
 ## Executável
 
 ```Pasta DIST```
+- NoteBlock.exe
 
 ---
 
