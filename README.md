@@ -11,29 +11,13 @@
 - Salvar blocos como arquivos `.txt`
 - Busca rápida dentro dos blocos (`CTRL+F`)
 - Interface escura moderna com scroll personalizado
-- Ícone próprio compatível com Windows (`.exe`)
 - Salva automaticamente o conteúdo em `dataBlock.json`
 
 ---
 
-## Pré-requisitos
+# Executavel
 
-- **Python 3.10+**
-- Bibliotecas Python:
-  - `tkinter` (já incluso no Python)
-  - `ttk` (parte do Tkinter)
-
----
-
-## Instalação
-
-1. Clone o repositório ou baixe os arquivos:
-
-```bash
-git clone https://github.com/seuusuario/NoteBlock.git
-cd NoteBlock
-pip install pyinstaller
-```
+```Pasta DIST```
 
 ---
 
